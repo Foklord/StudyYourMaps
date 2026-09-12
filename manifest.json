@@ -9,8 +9,8 @@
     "lang": "pl"
 =======
 {
-    "name": "Moja aplikacja",
-    "short_name": "MojaApp",
+    "name": "StudyYourMaps",
+    "short_name": "SYM",
     "start_url": "./",
     "display": "standalone",
     "background_color": "#111111",
