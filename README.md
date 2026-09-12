@@ -1,4 +1,4 @@
-# Studyge Ultimate
+# StudyYourMaps
 
 > **Currently in development.**
 
