@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "Moja aplikacja",
     "short_name": "MojaApp",
@@ -6,4 +7,14 @@
     "background_color": "#111111",
     "theme_color": "#111111",
     "lang": "pl"
+=======
+{
+    "name": "Moja aplikacja",
+    "short_name": "MojaApp",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#111111",
+    "theme_color": "#111111",
+    "lang": "pl"
+>>>>>>> 465de01580af466a5090d18a1cf429a8013dc0e3
 }
